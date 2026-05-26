@@ -6,5 +6,5 @@ This Project is sponsored by PCBWay! Whether you need prototype PCBs or full ass
 ## Gerbers
 They are in the compressed folder
 
-##Video 
+## Video 
 [![Rev C video](https://img.youtube.com/vi/YbVndDZytoI/0.jpg)](https://youtu.be/YbVndDZytoI)
